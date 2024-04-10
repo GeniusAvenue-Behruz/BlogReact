@@ -1,0 +1,35 @@
+.header__contents {
+  background-color: #f8f9fa;
+  color: #333; 
+  > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10%;
+  }
+}
+
+.text-container h3 {
+  margin-top: 0;
+  color: #6c757d;
+}
+
+.text-container h1 {
+  margin-top: 0.5rem;
+}
+
+.text-container p {
+  max-width: 450px; 
+  margin-top: 1rem;
+  line-height: 1.6; 
+}
+
+.image-container {
+  flex-shrink: 0; 
+}
+
+.profile-picture {
+  width: 300px; 
+  height: auto; 
+  border-radius: 50%; 
+}

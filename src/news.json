@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "img": "imgs/eid.png",
+    "title": "Tech Giants Embrace the Spirit of Eid: A Digital Celebration",
+    "relatedSubjects": ["Technology", "Holiday"],
+    "description": "In a heartwarming display of cultural inclusivity, major tech companies have joined hands to mark the joyous occasion of Eid-ul-Fitr in the digital sphere. From virtual gatherings to special augmented reality filters, technology is bridging distances and spreading festive cheer worldwide.",
+    "profileImg": "imgs/behruz.png",
+    "author": "Behruz Rajabov",
+    "date": "May 6, 2024"
+  },
+  {
+    "id": 2,
+    "img": "imgs/ramadan.png",
+    "title": "Breakthrough Innovation: Ramadan-Inspired Scientific Discoveries",
+    "relatedSubjects": ["Science", "Innovation"],
+    "description": "During the holy month of Ramadan, a surge of innovative breakthroughs has taken the scientific community by storm. From bio-inspired technologies to sustainable energy solutions, researchers are drawing inspiration from the principles of fasting and reflection, pushing the boundaries of scientific exploration.",
+    "profileImg": "imgs/upcoder.png",
+    "author": "UpCoder",
+    "date": "April 25, 2024"
+  },
+  {
+    "id": 3,
+    "img": "imgs/eid.png",
+    "title": "Tech Giants Embrace the Spirit of Eid: A Digital Celebration",
+    "relatedSubjects": ["Technology", "Holiday"],
+    "description": "In a heartwarming display of cultural inclusivity, major tech companies have joined hands to mark the joyous occasion of Eid-ul-Fitr in the digital sphere. From virtual gatherings to special augmented reality filters, technology is bridging distances and spreading festive cheer worldwide.",
+    "profileImg": "imgs/behruz.png",
+    "author": "Behruz Rajabov",
+    "date": "May 6, 2024"
+  },
+  {
+    "id": 4,
+    "img": "imgs/ramadan.png",
+    "title": "Breakthrough Innovation: Ramadan-Inspired Scientific Discoveries",
+    "relatedSubjects": ["Science", "Innovation"],
+    "description": "During the holy month of Ramadan, a surge of innovative breakthroughs has taken the scientific community by storm. From bio-inspired technologies to sustainable energy solutions, researchers are drawing inspiration from the principles of fasting and reflection, pushing the boundaries of scientific exploration.",
+    "profileImg": "imgs/upcoder.png",
+    "author": "UpCoder",
+    "date": "April 25, 2024"
+  },
+  {
+    "id": 5,
+    "img": "imgs/eid.png",
+    "title": "Tech Giants Embrace the Spirit of Eid: A Digital Celebration",
+    "relatedSubjects": ["Technology", "Holiday"],
+    "description": "In a heartwarming display of cultural inclusivity, major tech companies have joined hands to mark the joyous occasion of Eid-ul-Fitr in the digital sphere. From virtual gatherings to special augmented reality filters, technology is bridging distances and spreading festive cheer worldwide.",
+    "profileImg": "imgs/behruz.png",
+    "author": "Behruz Rajabov",
+    "date": "May 6, 2024"
+  }
+]

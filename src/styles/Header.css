@@ -1,0 +1,45 @@
+.header > .nav-bar {
+  background-color: #01013f;
+  div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color: white;
+  }
+}
+.container {
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: initial;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 50px;
+  margin-right: 15px;
+}
+
+.nav-bar {
+  display: flex;
+}
+
+.nav-item {
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s ease;
+}
+
+.nav-item:hover {
+  color: #04c2c9;
+}
+
+h1 {
+  margin: 0;
+  font-size: 24px;
+}
